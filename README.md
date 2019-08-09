@@ -1,0 +1,1 @@
+Creating a pure CSS menu with list items. No JavaScript.
